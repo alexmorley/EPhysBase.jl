@@ -1,0 +1,17 @@
+name = "EPhysBase"
+uuid = "26bcad50-a183-11e9-160b-45ef884fa5d0"
+authors = ["Alexander Morley <alexander.morley@univ.ox.ac.uk>"]
+version = "0.1.0"
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+NaNMath = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+utils = "c24af905-f461-587f-a9fd-e7b55a969bab"
